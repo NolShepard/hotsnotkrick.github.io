@@ -8,4 +8,4 @@ Font Gayathri
 
 font-family: 'Gayathri', sans-serif;
 
-https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML
+https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Creating_hyperlinks
