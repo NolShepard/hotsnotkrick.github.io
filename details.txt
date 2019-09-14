@@ -8,6 +8,6 @@ Font Gayathri
 
 font-family: 'Gayathri', sans-serif;
 
-https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure
+https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Debugging_HTML
 
 
