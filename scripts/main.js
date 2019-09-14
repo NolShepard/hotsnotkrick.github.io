@@ -8,7 +8,7 @@ myImage.onclick = function() {
       myImage.setAttribute ('src','images/golf-ball.jpg');
     }
 }
-let myButton = document.querySelector('button');
+/*let myButton = document.querySelector('button');
 let myHeading = document.querySelector('h1');
 function setUserName() {
   let myName = prompt('Please enter your name.');
@@ -29,7 +29,7 @@ myButton.onclick = function() {
   setUserName();
 }
 
-/*let myHeading = document.querySelector('h1');
+let myHeading = document.querySelector('h1');
 myHeading.textContent = 'Hello world!';
 
 document.querySelector('html').onclick = function() {

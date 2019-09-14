@@ -36,10 +36,16 @@ h5 {
 	margin: 0;
 	padding: 20px 0;
 }
-p, li {
+p, li, dd {
 	font-size: 16px;
 	line-height: 2;
 	letter-spacing: 1px;
+}
+dt {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+    font-weight: 700;
 }
 body {
 	width: 600px;
