@@ -11,6 +11,11 @@ h1 {
 	color: #00539F;
 	text-shadow: 3px 3px 1px black;
 }
+nav input {
+	font-size: 28px;
+	color: blue;
+	background-color: aqua;
+}
 h2 {
 	font-size: 28px;
 	text-align: center;
@@ -48,15 +53,25 @@ dt {
     font-weight: 700;
 }
 body {
-	width: 600px;
+	min-width: 600px;
 	margin: 0 auto;
 	background-color: #FF9500;
 	padding: 0 20px 20px 20px;
 	border: 5px solid black;
 }
-img {
+main {
+	padding: 10px;
+}
+/*img {
 	display: block;
-	margin: 0 auto;
+	}
+	*/
+nav {
+	background-color: #e68600;
+}
+aside img {
+	display: block;
+	width: 275px;
 }
 /*p, li, h2 {
 	width: 500px;
