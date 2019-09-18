@@ -8,5 +8,5 @@ Font Gayathri
 
 font-family: 'Gayathri', sans-serif;
 
-https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables
+https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/Getting_started
 
