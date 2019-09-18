@@ -79,9 +79,13 @@ table {
 	border-collapse: collapse;
 	border: 2px solid rgb(200,200,200);
 	letter-spacing: 1px;
-	font-size: 1rem;
+	font-size: 1.5em;
   }
   
+  table.center {
+	  margin-left: auto;
+	  margin-right: auto;
+  }
   td, th {
 	border: 1px solid rgb(190,190,190);
 	padding: 10px 20px;
@@ -107,8 +111,7 @@ table {
 	padding: 10px;
   }
   tbody {
-	font-size: 90%;
-	font-style: italic;
+	font-size: 100%;
   }
   
   tfoot {
