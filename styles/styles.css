@@ -17,12 +17,47 @@ nav input {
 	color: blue;
 	background-color: aqua;
 }
+
 h2 {
 	font-size: 28px;
 	text-align: center;
-	margin: 0;
-	padding: 20px 0;
+	margin: 10;
+	padding: 20px;
 	font-weight: 700;
+}
+nav {
+	background-color: #e68600;
+}
+ul.nav-list {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+}
+.nav-list li {
+	float: left;
+	border-right: 1px solid #e68600; 
+}
+.nav-list li:last-child {
+	border-right: none;
+}
+.nav-list li a {
+	background-color: aqua;
+	color: blue;
+	text-decoration: none;
+	padding: 1em 2em;
+	line-height: 0;
+	display: block;
+	text-align: center;
+	font-size: 1em;
+}
+.nav-list li.active a {
+	background-color: purple;
+	color: black;
+}
+.nav-list li a:hover {
+	background-color: purple;
+	color: black;
 }
 h3 {
 	font-size: 40px;
@@ -68,9 +103,7 @@ main {
 	display: block;
 	}
 	*/
-nav {
-	background-color: #e68600;
-}
+
 aside img {
 	display: block;
 	width: 275px;
